@@ -1,0 +1,15 @@
+KATTERUMS JAKTLAG v2.5.8 - KOMPLETT PAKET
+
+Syfte: rätta versionshanteringen utan att ändra jaktdata eller Supabase-funktionerna.
+- En auktoritativ versionsvariabel sätts före äldre kodblock.
+- Äldre kod får inte längre skriva sina historiska versionsnummer i huvudet.
+- Ny cacheversion v258.
+- index.html laddar app.js, cloud.js och style.css med v=258.
+- Befintliga funktioner och datafiler behålls.
+
+INSTALLATION
+1. Radera filerna i GitHub-repots rot som hör till appen.
+2. Ladda upp samtliga filer från denna ZIP till repots rot.
+3. Kontrollera att index.html, app.js, cloud.js, style.css, sw.js och manifest.webmanifest finns i samma katalog.
+4. Öppna GitHub Pages-versionen efter publicering.
+Förväntad versionsvisning: Jaktlagsappen · v2.5.8.
